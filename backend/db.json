@@ -1,0 +1,19 @@
+{
+  "name": "Café Velvet",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aleyo Stacy",
+  "license": "ISC",
+  "description": "Simple coffee website",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.41",
+    "express": "^4.17.1",
+    "ejs": "^3.1.6"
+
+    
+  }}
