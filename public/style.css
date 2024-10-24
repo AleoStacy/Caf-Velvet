@@ -16,7 +16,7 @@ body {
   margin: 0 auto;
   margin-top: 2rem;
   height: 500px; 
-  background-image: url("/images/5 coffee variations to try today.jpeg"); 
+  background-image: url("../images/5 coffee variations to try today.jpeg");
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
